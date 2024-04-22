@@ -1,4 +1,4 @@
-# copy-paste-Anywhere-for-single-file
+# copy-paste-Anywhere
 This is a Python Flask application that implements an authentication system and file upload/download functionality.
 The authentication system uses JWT tokens to authenticate users, and the file upload/download functionality allows users to upload and download files with a token-based system
 This is a Python Flask application that implements an authentication system and file upload/download functionality. 
